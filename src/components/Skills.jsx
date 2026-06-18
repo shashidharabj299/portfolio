@@ -116,7 +116,7 @@ function Skills() {
                     padding: "5px 12px",
                     borderRadius: "6px",
                     background: "#f8fafc",
-                    border: "1px solid #e2e8f0",
+                    border: "1px solid #2a323c",
                     fontSize: "13px",
                     color: "#475569",
                     fontWeight: 500,
